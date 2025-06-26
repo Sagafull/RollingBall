@@ -22,7 +22,7 @@ public class RollingBall extends JPanel implements ActionListener{
         g.drawOval(x/2-40,getHeight()/2-50, 100, 100);
 
         g.fillArc(x/2-40,getHeight()/2-50,100,100,Stang,180);
-<<<<<<< Rolling
+
 
     }
 
@@ -42,9 +42,6 @@ public class RollingBall extends JPanel implements ActionListener{
 
         repaint();
 
-        
-=======
->>>>>>> main
     }
 
     
